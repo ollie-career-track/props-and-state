@@ -8,7 +8,7 @@ export default class ColorContainer extends Component {
   };
 
   selectColor = backgroundColor => {
-    this.setState({ backgroundColor });
+    this.setState({ backgroundColor }); 
   }
 
   render() {

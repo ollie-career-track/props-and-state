@@ -1,9 +1,10 @@
 import React from 'react';
-import ColorContainer from '../containers/ColorContainer';
+import RandomColor from '../containers/RandomColor';
+// import ColorContainer from '../containers/ColorContainer';
 
 const App = () => {
   return (
-    <ColorContainer />
+    <RandomColor />
   );
 };
 
